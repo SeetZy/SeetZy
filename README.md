@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SeetZy</h1>
 <h3 align="center">I'm a student with a hobby of coding</h3>
 
-- 🔭 I’m currently working on **Discord Bot, Twitter Bot, School Business**
+- 🔭 I’m currently working on a **Game, Discord bot, School Business**
 
 - 🌱 I’m currently learning **Python (Django, PyQt5), JavaScript, Bootstrap**
 
