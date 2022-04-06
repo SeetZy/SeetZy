@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Game, Discord bot, School Business**
 
-- 🌱 I’m currently learning **Python (Django, PyQt5), JavaScript, Bootstrap**
+- 🌱 I’m currently learning **Python (Django, PyQt5), JavaScript (discord.js), C# and Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
