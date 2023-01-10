@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SeetZy</h1>
 <h3 align="center">I'm a student with a hobby of coding</h3>
 
-```py
-  🔭 currently_working_on: [ "School Business", "AR App", "Portfolio"],
-  🌱 currently_learning: [ "Flutter", "Rust", "IoT" ],
+```dart
+  🔭 _currentlyWorkingOn: [ "School Business", "AR App", "Portfolio"],
+  🌱 _currentlyLearning: [ "Flutter", "Rust", "IoT" ],
 ```
 
 # 💻 Tech Stack:
