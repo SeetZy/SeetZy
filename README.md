@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student with a hobby of coding</h3>
 
 ```dart
-  🔭 _currentlyWorkingOn: [ "School Business", "AR App", "Portfolio"],
+  🔭 _currentlyWorkingOn: [ "School Business", "Portfolio"],
   🌱 _currentlyLearning: [ "Flutter", "Rust", "IoT" ],
 ```
 
