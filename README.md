@@ -3,7 +3,7 @@
 <br />
 
 ```dart
-  🔭 _currentlyWorkingOn: [ "School Business", "Portfolio"],
+  🔭 _currentlyWorkingOn: [ "Portfolio"],
   🌱 _currentlyLearning: [ "Flutter", "C++", "IoT" ],
 ```
 
