@@ -1,10 +1,10 @@
-<h1 >Hi, I'm SeetZy</h1>
-<h3 >I'm a student with a hobby of coding</h3>
+
+<h3 >I'm a electrical engineering student with a hobby of coding</h3>
 <br />
 
 ```dart
   🔭 _currentlyWorkingOn: [ "Hexapod Robot" ],
-  🌱 _currentlyLearning: [ "Flutter", "C++" ],
+  🌱 _currentlyLearning: [ "Embedded systems", "C++" ],
 ```
 
 # 💻 Tech That I Use:
